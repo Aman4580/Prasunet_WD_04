@@ -17,8 +17,8 @@ const Contact = () => {
                 <p><FaPhoneSquareAlt />   9044051384</p>
                 <div className="social-icons">
                     <a href="https://www.linkedin.com/in/aman-verma-763a09240/"><FaLinkedin /></a>
-                    <a href=""><FaInstagramSquare /></a>
-                    <a href=""><FaFacebookSquare /></a>
+                    <a href="/"><FaInstagramSquare /></a>
+                    <a href="/"><FaFacebookSquare /></a>
                 </div>
                 <a href="./cv.jpeg" download className="btn btn2">Download Cv</a>
             </div>

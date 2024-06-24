@@ -12,7 +12,7 @@ const Nav = () => {
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#contact">Contact</a></li>
-
+                    <li><a href="/blogs">Blogs</a></li>
                     
                 <i class="fa-sharp fa-solid fa-circle-xmark" onclick="closemenu()"></i>
                 </ul>

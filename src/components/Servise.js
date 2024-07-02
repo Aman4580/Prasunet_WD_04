@@ -9,7 +9,7 @@ const Servise = () => {
    <div>
     <i className="fa-solid fa-code"></i>
     <h2>Web Design</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At assumenda atque laborum nisi magni, vero repellendus consectetur alias, dolor quas fugit nemo aliquid impedit blanditiis voluptatum earum quis vel quae.</p>
+    <p>I have hands on experience of making project in mer stack development</p>
     {/* <a href="#">Learn More</a> */}
    </div>
    <div>

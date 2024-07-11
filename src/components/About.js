@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import Aphh from '../components/Aphh.jpeg';
+import Aphh from './images/Aphh.jpeg';
+import aman_final_image from './images/aman_final_image.jpeg'
 import Skill from './Skill';
 import Exp from './Exp';
 import Edu from './Edu';
@@ -23,7 +24,7 @@ const About = () => {
         <div className="container">
           <div className="row">
             <div className="about-col-1">
-              <img src={Aphh} alt="@" />
+              <img src={aman_final_image} alt="@" />
             </div>
             <div className="about-col-2">
               <h1 className="sub-title">About Me</h1>

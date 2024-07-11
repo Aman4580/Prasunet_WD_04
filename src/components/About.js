@@ -34,7 +34,7 @@ const About = () => {
                 <button className="tab-links" onClick={() => opentab(3)}>Education</button>
               </div>
               <div id="tab-contents">
-                {tabContents} {/* Render the tabContents variable */}
+                {tabContents}
               </div>
             </div>
           </div>

@@ -4,6 +4,7 @@ import { FaInstagramSquare } from "react-icons/fa";
 import { FaFacebookSquare } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { FaPhoneSquareAlt } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 
 const Contact = () => {
@@ -18,7 +19,7 @@ const Contact = () => {
                 <div className="social-icons">
                     <a href="https://www.linkedin.com/in/aman-verma-763a09240/"><FaLinkedin /></a>
                     <a href="/"><FaInstagramSquare /></a>
-                    <a href="/"><FaFacebookSquare /></a>
+                    <a href="/"><FaGithub /></a>
                 </div>
                 <a href="./cv.jpeg" download className="btn btn2">Download Cv</a>
             </div>

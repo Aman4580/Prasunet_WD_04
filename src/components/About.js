@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Aphh from './images/Aphh.jpeg';
 import aman_final_image from './images/aman_final_image.jpeg'
 import Skill from './Skill';
 import Exp from './Exp';
